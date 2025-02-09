@@ -19,7 +19,7 @@
 
 ## 📫 Connect with Me
 <p align="left">
-    <a href="https://linkedin.com/in/vigneshmestha" target="_blank">
+    <a href="https://www.linkedin.com/in/vignesh-mestha-576217221?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
         <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/>
     </a>
     <a href="mailto:vigneshmestha14@gmail.com" target="_blank">
