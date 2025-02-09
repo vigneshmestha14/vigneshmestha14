@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00528C&lines=Hi+There!+👋;+I'm+Vignesh+Mestha!;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=539BF5&lines=Hi+There!+👋;+I'm+Vignesh+Mestha!;"/>
 </h1>
+
 <h3 align="center">A passionate Data Engineer from India 🇮🇳</h3>
 
 <p align="right">
