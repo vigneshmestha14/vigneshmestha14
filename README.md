@@ -1,7 +1,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vignesh+Mestha!;"/>
 </h1>
-<h3 align="center">A passionate Data Engineer from India</h3>
+<h3 align="center">A passionate Data Engineer from India 🇮🇳</h3>
 
 <p align="right">
     <img src="https://visitor-badge.laobi.icu/badge?page_id=vigneshmestha14.vigneshmestha14" alt="Visitor Badge"/>
@@ -13,7 +13,7 @@
 - 🔭 I’m currently working at **LTIMindtree**
 - 🌱 I’m currently exploring **Microsoft Fabric**
 - 💬 Ask me anything [here](https://github.com/vigneshmestha14/vigneshmestha14/discussions/1)
-- ⚡ Fun fact: **NA**
+- ⚡ Fun fact: **NA 😅**
 
 ---
 
@@ -45,7 +45,6 @@
 ## 📊 GitHub Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=vigneshmestha14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-    <br/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshmestha14&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
