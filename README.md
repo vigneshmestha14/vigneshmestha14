@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Vignesh+Mestha!;"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Anton&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&color=00528C&lines=Hi+There!+👋;+I'm+Vignesh+Mestha!;"/>
 </h1>
 <h3 align="center">A passionate Data Engineer from India 🇮🇳</h3>
 
@@ -44,7 +44,7 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=vigneshmestha14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=vigneshmestha14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vigneshmestha14&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats"/>
 </div>
 
