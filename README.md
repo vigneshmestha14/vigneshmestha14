@@ -12,7 +12,7 @@
 ## 🔥 About Me
 - 🔭 I’m currently working at **LTIMindtree**
 - 🌱 I’m currently exploring **Microsoft Fabric**
-- 💬 Ask me anything [here](https://github.com/vigneshmesth14/vigneshmestha14/issues)
+- 💬 Ask me anything [here](https://github.com/vigneshmestha14/vigneshmestha14/discussions/1)
 - ⚡ Fun fact: **NA**
 
 ---
