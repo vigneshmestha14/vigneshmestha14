@@ -46,7 +46,7 @@
 ## 📊 GitHub Stats
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=vigneshmestha14&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&rank_icon=github" alt="GitHub Stats"/>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-eight.vercel.app?user=vigneshmestha14&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" /></a>
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=vigneshmestha14&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" /></a>
 </div>
 
 ---
