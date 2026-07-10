@@ -76,8 +76,16 @@
 
 ## 🐍 Contribution Snake
 
+**Option 1 — Neon snake (static, dark theme)**
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vigneshmestha14/vigneshmestha14/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/vigneshmestha14/vigneshmestha14/output/github-contribution-grid-snake-dark.svg" alt="Neon contribution snake" />
+</p>
+
+**Option 2 — Animated snake (looping GIF)**
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/vigneshmestha14/vigneshmestha14/output/github-contribution-grid-snake.gif" alt="Animated contribution snake" />
 </p>
 
 ---
