@@ -3,7 +3,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vigneshmestha14&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=vigneshmestha14&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Badge" />
   <img src="https://img.shields.io/badge/Role-Data%20Engineer%20%40%20LTIMindtree-0078D4?style=flat-square" alt="Role" />
   <img src="https://img.shields.io/badge/Location-Chennai%2C%20India-539bf5?style=flat-square" alt="Location" />
   <img src="https://img.shields.io/badge/Status-Open%20to%20collaborate-2ea44f?style=flat-square&logo=github" alt="Status" />
