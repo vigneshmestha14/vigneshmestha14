@@ -3,10 +3,10 @@
 </h1>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=vigneshmestha14&label=Profile%20Views&color=0e75b6&style=flat" alt="Visitor Badge" />
   <img src="https://img.shields.io/badge/Role-Data%20Engineer%20%40%20LTIMindtree-0078D4?style=flat-square" alt="Role" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-2ea44f?style=flat-square" alt="Experience" />
   <img src="https://img.shields.io/badge/Location-Bengaluru%2C%20Karnataka-539bf5?style=flat-square" alt="Location" />
-  <img src="https://img.shields.io/badge/Status-Open%20to%20collaborate-2ea44f?style=flat-square&logo=github" alt="Status" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20collaborate-blue?style=flat-square&logo=github" alt="Status" />
 </div>
 
 <br />
@@ -56,7 +56,7 @@
   <img src="assets/logos/fabric_warehouse.svg" width="48" height="48" alt="Fabric Data Warehouse" title="Fabric Data Warehouse" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/logos/onelake.svg" width="48" height="48" alt="OneLake Shortcuts" title="OneLake Shortcuts" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/logos/fabric_pipeline.svg" width="48" height="48" alt="Fabric Data Pipelines" title="Fabric Data Pipelines" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="assets/logos/delta_lake.svg" height="44" alt="Delta Lake" title="Delta Lake" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/logos/delta_lake.svg" width="48" height="48" alt="Delta Lake" title="Delta Lake" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/logos/eventhouse.svg" width="48" height="48" alt="Eventhouse" title="Eventhouse" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/logos/eventstream.svg" width="48" height="48" alt="Eventstreams" title="Eventstreams" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="assets/logos/real_time_intelligence.svg" width="48" height="48" alt="Real-Time Intelligence" title="Real-Time Intelligence" />&nbsp;&nbsp;&nbsp;&nbsp;
@@ -152,7 +152,6 @@
 | 🔄 [**fabric-git-integration**](https://github.com/vigneshmestha14/fabric-git-integration) | Source control, workspace synchronization, and CI/CD pipelines for Microsoft Fabric artifacts. |
 | 📊 [**Data-Engineering**](https://github.com/vigneshmestha14/Data-Engineering) | End-to-end data pipeline exercises, Medallion lakehouse modeling, and PySpark transformations. |
 | 🗄️ [**sql-practice-hub**](https://github.com/vigneshmestha14/sql-practice-hub) | Advanced SQL query patterns, performance tuning, and schema design exercises. |
-| 🤖 [**MultiAgentAccelerator**](https://github.com/vigneshmestha14/MultiAgentAccelerator) | Multi-Agent Custom Automation Engine powered by Azure OpenAI, Microsoft Agent Framework, and Cosmos DB. |
 
 </div>
 
